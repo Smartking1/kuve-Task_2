@@ -1,0 +1,25 @@
+# Core dependencies
+transformers
+sentence-transformers
+#torch
+faiss-cpu
+accelerate
+psutil
+
+# Document processing
+PyPDF2
+python-docx
+pdfplumber
+
+# Interface
+streamlit
+
+# Utilities
+numpy
+pandas
+tqdm
+python-dotenv
+
+# Testing
+pytest
+pytest-cov

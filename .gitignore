@@ -1,0 +1,33 @@
+# Model files and directories
+/models/
+
+# Python virtual environment
+/kuve/
+venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.env
+.env.local
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
