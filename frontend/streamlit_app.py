@@ -130,26 +130,28 @@ def main():
     st.markdown("""
         <style>
         .summary-box {
-            background-color: #f0f2f6;
+            background-color: #000000;
+            color: #ffffff;
             padding: 20px;
             border-radius: 10px;
             margin: 10px 0;
         }
         .qa-box {
-            background-color: #e8f4f8;
+            background-color: #000000;
+            color: #ffffff;
             padding: 15px;
             border-radius: 10px;
             margin: 10px 0;
         }
         .doc-card {
-            background-color: #ffffff;
+            background-color: #000000;
             padding: 15px;
             border-radius: 8px;
             border: 1px solid #e0e0e0;
             margin: 10px 0;
         }
         .success-box {
-            background-color: #d4edda;
+            background-color: #000000;
             padding: 15px;
             border-radius: 8px;
             border-left: 4px solid #28a745;

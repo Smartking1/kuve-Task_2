@@ -246,7 +246,10 @@ class QASystem:
 
 Question: {question}
 
-Please provide a clear and concise answer based only on the context above."""
+Please provide a clear and concise answer based only on the context above.
+Do not provide answers outside the provided context.
+Do not make up information not contained in the context.
+Do not answer questions that cannot be answered with the given context."""
             }
         ]
         
